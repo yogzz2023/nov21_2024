@@ -1,0 +1,38 @@
+replace matplotlib plotting with pyqtgraph plotting 
+in plot tab i need some sub tabs which will have have option to select type of plots (search plot , track plot )
+to configure the window size of the plots ( like we can enter  max range min range, max azimuth , min azimuth , max elevation , min elevation and max time and min time )
+so plots should adjust according to that 
+
+a option to chaneg size of the marker (small , medium and big)
+
+do these changes and give me the updated code 
+
+
+in plot tab i need some sub tabs which will have have option to select type of plots (search plot , track plot )
+and also add a data tip so on keeping the cursor on the point i should get the values (of the x and y values which is on the plot )
+also fix the grids for all plots for track ids also and all plot options 
+do these changes and give me the updated full code after all the integration 
+
+
+in the plot tab 
+1)i want to add a drop down for plotting types of plots (plot types)
+-range vs time 
+-azimuth vs time 
+-elevation vs time
+-ppi
+-rhi
+-all modes 
+2)i want to add a drop down for plot colors (which should have multiple colors)
+3) i want to add a drop down for plot size (which should have 3 options of 3 size (small,medium,big))
+4)pop up for subplots ( 2 subplots m 3 subplots) - functionality is give a option to select which subplots to plot 
+5)a pop up so on click i can do the plot configuration 
+to enter max and min - (range,azimuth,elevation and time) so based on this input the plot should adjust 
+6)a option to view the history of the plot (track id)
+
+so do these changes to my code and integrate it to my code
+
+so after doing this changes and give full code 
+
+plot type,plot color ,pot size, plot configurtion (all these shoudl come under tge plot tab )
+
+so change according to that and give me the updated code 
